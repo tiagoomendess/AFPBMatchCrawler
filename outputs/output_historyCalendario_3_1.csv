@@ -1,0 +1,272 @@
+1;2016-09-25 10:00:00;Milhazes;2;Cristelo;1;false;null
+1;2016-09-25 10:00:00;Águias de S.Mamede;3;Chorente;0;false;null
+1;2016-09-25 10:00:00;Perelhal;1;Paradela;0;false;null
+1;2016-09-25 10:00:00;Carvalhas;0;Águas S. Fins;2;false;null
+1;2016-09-25 10:00:00;Aborim;1;Fragoso;2;false;null
+1;2016-09-25 10:00:00;S.Martinho;3;Cambeses;0;false;null
+1;2016-09-25 10:00:00;Águas Santas;0;Lijó;1;false;null
+1;2016-09-25 10:00:00;Feitos;2;Lama;1;false;null
+2;2016-10-01 16:00:00;GD Creixomil;3;Milhazes;0;false;null
+2;2016-10-02 10:00:00;Cristelo;1;Águias de S.Mamede;1;false;null
+2;2016-10-02 10:00:00;Chorente;0;Perelhal;2;false;null
+2;2016-10-02 10:00:00;Paradela;1;Carvalhas;1;false;null
+2;2016-10-02 10:00:00;Águas S. Fins;2;Aborim;0;false;null
+2;2016-10-02 10:00:00;Fragoso;0;S.Martinho;3;false;null
+2;2016-10-02 10:00:00;Cambeses;1;Águas Santas;0;false;null
+2;2016-10-02 10:00:00;Lijó;0;Feitos;1;false;null
+3;2016-10-09 10:00:00;Lama;0;Lijó;1;false;null
+3;2016-10-09 10:00:00;Feitos;3;Cambeses;0;false;null
+3;2016-10-09 10:00:00;Águas Santas;2;Fragoso;3;false;null
+3;2016-10-09 10:00:00;S.Martinho;2;Águas S. Fins;0;false;null
+3;2016-10-09 10:00:00;Aborim;1;Paradela;0;false;null
+3;2016-10-09 10:00:00;Carvalhas;3;Chorente;1;false;null
+3;2016-10-09 10:00:00;Perelhal;2;Cristelo;0;false;null
+3;2016-10-09 10:00:00;Águias de S.Mamede;0;GD Creixomil;0;false;null
+4;2016-10-16 10:00:00;Fragoso;0;Feitos;0;false;null
+4;2016-10-16 10:00:00;Cambeses;3;Lama;1;false;null
+4;2016-10-16 10:00:00;Águas S. Fins;2;Águas Santas;3;false;null
+4;2016-10-16 10:00:00;Paradela;3;S.Martinho;2;false;null
+4;2016-10-16 10:00:00;Chorente;3;Aborim;2;false;null
+4;2016-10-16 10:00:00;Cristelo;3;Carvalhas;1;false;null
+4;2016-10-16 10:00:00;Milhazes;0;Águias de S.Mamede;1;false;null
+4;2016-10-16 10:00:00;GD Creixomil;2;Perelhal;2;false;null
+5;2016-10-22 15:00:00;Lijó;1;Cambeses;1;false;null
+5;2016-10-22 16:00:00;Lama;0;Fragoso;3;false;null
+5;2016-10-23 10:00:00;Feitos;3;Águas S. Fins;0;false;null
+5;2016-10-23 10:00:00;Águas Santas;1;Paradela;2;false;null
+5;2016-10-23 10:00:00;S.Martinho;7;Chorente;1;false;null
+5;2016-10-23 10:00:00;Aborim;2;Cristelo;1;false;null
+5;2016-10-23 10:00:00;Carvalhas;1;GD Creixomil;0;false;null
+5;2016-10-23 10:00:00;Perelhal;2;Milhazes;1;false;null
+6;2016-10-30 10:00:00;Fragoso;3;Lijó;0;false;null
+6;2016-10-30 10:00:00;Águas S. Fins;2;Lama;2;false;null
+6;2016-10-30 10:00:00;Paradela;2;Feitos;3;false;null
+6;2016-10-30 10:00:00;Chorente;0;Águas Santas;1;false;null
+6;2016-10-30 10:00:00;Cristelo;0;S.Martinho;1;false;null
+6;2016-10-30 10:00:00;GD Creixomil;0;Aborim;1;false;null
+6;2016-10-30 10:00:00;Milhazes;3;Carvalhas;1;false;null
+6;2016-10-30 10:00:00;Águias de S.Mamede;2;Perelhal;3;false;null
+7;2016-11-05 15:00:00;Lama;4;Paradela;1;false;null
+7;2016-11-06 10:00:00;Cambeses;2;Fragoso;1;false;null
+7;2016-11-06 10:00:00;Lijó;1;Águas S. Fins;2;false;null
+7;2016-11-06 10:00:00;Feitos;1;Chorente;0;false;null
+7;2016-11-06 10:00:00;Águas Santas;4;Cristelo;1;false;null
+7;2016-11-06 10:00:00;S.Martinho;1;GD Creixomil;0;false;null
+7;2016-11-06 10:00:00;Aborim;3;Milhazes;0;false;null
+7;2016-11-06 10:00:00;Carvalhas;0;Águias de S.Mamede;6;false;null
+8;2016-11-12 15:00:00;GD Creixomil;1;Águas Santas;1;false;null
+8;2016-11-13 10:00:00;Águas S. Fins;0;Cambeses;1;false;null
+8;2016-11-13 10:00:00;Paradela;1;Lijó;1;false;null
+8;2016-11-13 10:00:00;Chorente;0;Lama;1;false;null
+8;2016-11-13 10:00:00;Cristelo;1;Feitos;1;false;null
+8;2016-11-13 10:00:00;Milhazes;1;S.Martinho;0;false;null
+8;2016-11-13 10:00:00;Águias de S.Mamede;1;Aborim;0;false;null
+8;2016-11-13 10:00:00;Perelhal;3;Carvalhas;0;false;null
+9;2016-11-20 10:00:00;Fragoso;2;Águas S. Fins;1;false;null
+9;2016-11-20 10:00:00;Cambeses;2;Paradela;4;false;null
+9;2016-11-20 10:00:00;Lijó;3;Chorente;0;false;null
+9;2016-11-20 10:00:00;Lama;0;Cristelo;0;false;null
+9;2016-11-20 10:00:00;Feitos;4;GD Creixomil;1;false;null
+9;2016-11-20 10:00:00;Águas Santas;1;Milhazes;3;false;null
+9;2016-11-20 10:00:00;S.Martinho;3;Águias de S.Mamede;6;false;null
+9;2016-11-20 10:00:00;Aborim;2;Perelhal;2;false;null
+10;2016-11-27 10:00:00;Paradela;0;Fragoso;4;false;null
+10;2016-11-27 10:00:00;Chorente;3;Cambeses;0;false;null
+10;2016-11-27 10:00:00;Cristelo;1;Lijó;2;false;null
+10;2016-11-27 10:00:00;GD Creixomil;3;Lama;1;false;null
+10;2016-11-27 10:00:00;Milhazes;1;Feitos;0;false;null
+10;2016-11-27 10:00:00;Águias de S.Mamede;3;Águas Santas;1;false;null
+10;2016-11-27 10:00:00;Perelhal;3;S.Martinho;1;false;null
+10;2016-11-27 10:00:00;Carvalhas;2;Aborim;2;false;null
+11;2016-12-04 10:00:00;Águas S. Fins;2;Paradela;2;false;null
+11;2016-12-04 10:00:00;Fragoso;3;Chorente;1;false;null
+11;2016-12-04 10:00:00;Lijó;0;GD Creixomil;1;false;null
+11;2016-12-04 10:00:00;Lama;0;Milhazes;1;false;null
+11;2016-12-04 10:00:00;Feitos;0;Águias de S.Mamede;0;false;null
+11;2016-12-04 10:00:00;Águas Santas;2;Perelhal;3;false;null
+11;2016-12-04 10:00:00;S.Martinho;1;Carvalhas;0;false;null
+11;2016-12-23 20:30:00;Cambeses;2;Cristelo;2;false;null
+12;2016-12-08 15:30:00;Chorente;4;Águas S. Fins;1;false;null
+12;2016-12-08 10:00:00;Cristelo;0;Fragoso;0;false;null
+12;2016-12-08 10:00:00;GD Creixomil;3;Cambeses;0;false;null
+12;2016-12-08 10:00:00;Milhazes;0;Lijó;2;false;null
+12;2016-12-08 10:00:00;Águias de S.Mamede;0;Lama;0;false;null
+12;2016-12-08 10:00:00;Perelhal;1;Feitos;0;false;null
+12;2016-12-08 10:00:00;Carvalhas;1;Águas Santas;4;false;null
+12;2016-12-08 10:00:00;Aborim;0;S.Martinho;2;false;null
+13;2016-12-11 10:00:00;Paradela;3;Chorente;1;false;null
+13;2016-12-11 10:00:00;Águas S. Fins;0;Cristelo;1;false;null
+13;2016-12-11 10:00:00;Fragoso;1;GD Creixomil;0;false;null
+13;2016-12-11 10:00:00;Cambeses;1;Milhazes;2;false;null
+13;2016-12-11 10:00:00;Lijó;0;Águias de S.Mamede;1;false;null
+13;2016-12-11 10:00:00;Lama;7;Perelhal;1;false;null
+13;2016-12-11 10:00:00;Feitos;3;Carvalhas;0;false;null
+13;2016-12-11 10:00:00;Águas Santas;2;Aborim;1;false;null
+14;2016-12-17 15:00:00;Perelhal;1;Lijó;0;false;null
+14;2016-12-18 10:00:00;Cristelo;1;Paradela;0;false;null
+14;2016-12-18 10:00:00;GD Creixomil;0;Águas S. Fins;0;false;null
+14;2016-12-18 10:00:00;Milhazes;0;Fragoso;4;false;null
+14;2016-12-18 10:00:00;Águias de S.Mamede;2;Cambeses;1;false;null
+14;2016-12-18 10:00:00;Carvalhas;2;Lama;2;false;null
+14;2016-12-18 10:00:00;Aborim;0;Feitos;2;false;null
+14;2016-12-18 10:00:00;S.Martinho;1;Águas Santas;2;false;null
+15;2017-01-07 15:00:00;Lama;4;Aborim;1;false;null
+15;2017-01-08 10:00:00;Chorente;0;Cristelo;0;false;null
+15;2017-01-08 10:00:00;Paradela;1;GD Creixomil;2;false;null
+15;2017-01-08 10:00:00;Águas S. Fins;2;Milhazes;1;false;null
+15;2017-01-08 10:00:00;Fragoso;3;Águias de S.Mamede;0;false;null
+15;2017-01-08 10:00:00;Cambeses;2;Perelhal;3;false;null
+15;2017-01-08 10:00:00;Lijó;3;Carvalhas;0;false;null
+15;2017-01-08 10:00:00;Feitos;2;S.Martinho;1;false;null
+16;2017-01-14 15:00:00;S.Martinho;2;Lama;5;false;null
+16;2017-01-15 10:00:00;GD Creixomil;3;Chorente;1;false;null
+16;2017-01-15 10:00:00;Milhazes;1;Paradela;2;false;null
+16;2017-01-15 10:00:00;Águias de S.Mamede;1;Águas S. Fins;3;false;null
+16;2017-01-15 10:00:00;Perelhal;1;Fragoso;2;false;null
+16;2017-01-15 10:00:00;Carvalhas;1;Cambeses;2;false;null
+16;2017-01-15 10:00:00;Aborim;3;Lijó;3;false;null
+16;2017-01-15 10:00:00;Águas Santas;0;Feitos;1;false;null
+17;2017-01-28 15:30:00;Lama;1;Águas Santas;2;false;null
+17;2017-01-29 10:00:00;Cristelo;1;GD Creixomil;1;false;null
+17;2017-01-29 10:00:00;Chorente;3;Milhazes;0;false;null
+17;2017-01-29 10:00:00;Paradela;2;Águias de S.Mamede;1;false;null
+17;2017-01-29 10:00:00;Águas S. Fins;0;Perelhal;3;false;null
+17;2017-01-29 10:00:00;Fragoso;6;Carvalhas;0;false;null
+17;2017-01-29 10:00:00;Cambeses;1;Aborim;3;false;null
+17;2017-01-29 10:00:00;Lijó;2;S.Martinho;2;false;null
+18;2017-02-05 10:00:00;Lama;0;Feitos;5;false;null
+18;2017-02-05 10:00:00;Lijó;0;Águas Santas;2;false;null
+18;2017-02-05 10:00:00;Cambeses;1;S.Martinho;3;false;null
+18;2017-02-05 10:00:00;Fragoso;2;Aborim;2;false;null
+18;2017-02-05 10:00:00;Águas S. Fins;1;Carvalhas;1;false;null
+18;2017-02-05 10:00:00;Paradela;1;Perelhal;1;false;null
+18;2017-02-05 10:00:00;Chorente;2;Águias de S.Mamede;1;false;null
+18;2017-02-05 10:00:00;Cristelo;2;Milhazes;0;false;null
+19;2017-02-12 10:00:00;Feitos;2;Lijó;2;false;null
+19;2017-02-12 10:00:00;Águas Santas;5;Cambeses;1;false;null
+19;2017-02-12 10:00:00;S.Martinho;1;Fragoso;5;false;null
+19;2017-02-12 10:00:00;Aborim;2;Águas S. Fins;2;false;null
+19;2017-02-12 10:00:00;Carvalhas;1;Paradela;2;false;null
+19;2017-02-12 10:00:00;Perelhal;1;Chorente;0;false;null
+19;2017-02-12 10:00:00;Águias de S.Mamede;1;Cristelo;2;false;null
+19;2017-02-12 10:00:00;Milhazes;1;GD Creixomil;1;false;null
+20;2017-02-19 10:00:00;Lijó;3;Lama;0;false;null
+20;2017-02-19 10:00:00;Cambeses;1;Feitos;3;false;null
+20;2017-02-19 10:00:00;Fragoso;1;Águas Santas;2;false;null
+20;2017-02-19 10:00:00;Águas S. Fins;0;S.Martinho;2;false;null
+20;2017-02-19 10:00:00;Paradela;1;Aborim;1;false;null
+20;2017-02-19 10:00:00;Chorente;3;Carvalhas;2;false;null
+20;2017-02-19 10:00:00;Cristelo;0;Perelhal;0;false;null
+20;2017-02-19 10:00:00;GD Creixomil;2;Águias de S.Mamede;3;false;null
+21;2017-02-25 15:00:00;Lama;2;Cambeses;0;false;null
+21;2017-02-25 15:00:00;Feitos;0;Fragoso;0;false;null
+21;2017-02-25 15:30:00;Águas Santas;2;Águas S. Fins;3;false;null
+21;2017-02-25 16:00:00;Aborim;2;Chorente;2;false;null
+21;2017-02-25 15:00:00;Carvalhas;0;Cristelo;1;false;null
+21;2017-02-25 15:00:00;Águias de S.Mamede;2;Milhazes;1;false;null
+21;2017-02-26 10:00:00;S.Martinho;2;Paradela;1;false;null
+21;2017-02-26 10:00:00;Perelhal;3;GD Creixomil;2;false;null
+22;2017-03-04 15:00:00;Fragoso;4;Lama;1;false;null
+22;2017-03-05 10:00:00;Cambeses;2;Lijó;4;false;null
+22;2017-03-05 10:00:00;Águas S. Fins;1;Feitos;2;false;null
+22;2017-03-05 10:00:00;Paradela;1;Águas Santas;3;false;null
+22;2017-03-05 10:00:00;Chorente;1;S.Martinho;1;false;null
+22;2017-03-05 10:00:00;Cristelo;1;Aborim;1;false;null
+22;2017-03-05 10:00:00;GD Creixomil;2;Carvalhas;1;false;null
+22;2017-03-05 10:00:00;Milhazes;1;Perelhal;4;false;null
+23;2017-03-11 15:30:00;Lijó;0;Fragoso;1;false;null
+23;2017-03-12 10:00:00;Lama;3;Águas S. Fins;0;false;null
+23;2017-03-12 10:00:00;Feitos;3;Paradela;2;false;null
+23;2017-03-12 10:00:00;Águas Santas;1;Chorente;2;false;null
+23;2017-03-12 10:00:00;S.Martinho;0;Cristelo;1;false;null
+23;2017-03-12 10:00:00;Aborim;3;GD Creixomil;0;false;null
+23;2017-03-12 10:00:00;Carvalhas;0;Milhazes;0;false;null
+23;2017-03-12 10:00:00;Perelhal;3;Águias de S.Mamede;1;false;null
+24;2017-03-19 10:00:00;Fragoso;4;Cambeses;1;false;null
+24;2017-03-19 10:00:00;Águas S. Fins;0;Lijó;0;false;null
+24;2017-03-19 10:00:00;Paradela;5;Lama;0;false;null
+24;2017-03-19 10:00:00;Chorente;2;Feitos;2;false;null
+24;2017-03-19 10:00:00;Cristelo;0;Águas Santas;0;false;null
+24;2017-03-19 10:00:00;GD Creixomil;0;S.Martinho;2;false;null
+24;2017-03-19 10:00:00;Milhazes;2;Aborim;2;false;null
+24;2017-03-19 10:00:00;Águias de S.Mamede;1;Carvalhas;2;false;null
+25;2017-03-26 10:00:00;Cambeses;3;Águas S. Fins;1;false;null
+25;2017-03-26 10:00:00;Lijó;3;Paradela;2;false;null
+25;2017-03-26 10:00:00;Lama;4;Chorente;1;false;null
+25;2017-03-26 10:00:00;Feitos;1;Cristelo;1;false;null
+25;2017-03-26 10:00:00;Águas Santas;0;GD Creixomil;1;false;null
+25;2017-03-26 10:00:00;S.Martinho;3;Milhazes;0;false;null
+25;2017-03-26 10:00:00;Aborim;2;Águias de S.Mamede;2;false;null
+25;2017-03-26 10:00:00;Carvalhas;0;Perelhal;1;false;null
+26;2017-04-02 10:00:00;Águas S. Fins;1;Fragoso;3;false;null
+26;2017-04-02 10:00:00;Paradela;2;Cambeses;2;false;null
+26;2017-04-02 10:00:00;Chorente;1;Lijó;2;false;null
+26;2017-04-02 10:00:00;Cristelo;1;Lama;5;false;null
+26;2017-04-02 10:00:00;GD Creixomil;0;Feitos;0;false;null
+26;2017-04-02 10:00:00;Milhazes;2;Águas Santas;5;false;null
+26;2017-04-02 10:00:00;Águias de S.Mamede;1;S.Martinho;0;false;null
+26;2017-04-02 10:00:00;Perelhal;2;Aborim;2;false;null
+27;2017-04-08 16:00:00;Águas Santas;3;Águias de S.Mamede;1;false;null
+27;2017-04-09 10:00:00;Fragoso;3;Paradela;2;false;null
+27;2017-04-09 10:00:00;Cambeses;1;Chorente;2;false;null
+27;2017-04-09 10:00:00;Lijó;4;Cristelo;0;false;null
+27;2017-04-09 10:00:00;Lama;3;GD Creixomil;0;false;null
+27;2017-04-09 10:00:00;Feitos;2;Milhazes;0;false;null
+27;2017-04-09 10:00:00;S.Martinho;1;Perelhal;0;false;null
+27;2017-04-09 10:00:00;Aborim;0;Carvalhas;1;false;null
+28;2017-04-22 16:00:00;Paradela;0;Águas S. Fins;0;false;null
+28;2017-04-22 16:00:00;Chorente;2;Fragoso;6;false;null
+28;2017-04-22 16:00:00;Cristelo;3;Cambeses;2;false;null
+28;2017-04-22 16:00:00;GD Creixomil;1;Lijó;3;false;null
+28;2017-04-22 16:00:00;Milhazes;1;Lama;0;false;null
+28;2017-04-22 16:00:00;Águias de S.Mamede;2;Feitos;2;false;null
+28;2017-04-22 16:00:00;Perelhal;3;Águas Santas;0;false;null
+28;2017-04-22 16:00:00;Carvalhas;1;S.Martinho;3;false;null
+29;2017-04-25 10:00:00;Águas S. Fins;2;Chorente;1;false;null
+29;2017-04-25 10:00:00;Fragoso;5;Cristelo;0;false;null
+29;2017-04-25 10:00:00;Cambeses;0;GD Creixomil;2;false;null
+29;2017-04-25 10:00:00;Lijó;3;Milhazes;1;false;null
+29;2017-04-25 10:00:00;Lama;2;Águias de S.Mamede;1;false;null
+29;2017-04-25 10:00:00;Feitos;2;Perelhal;0;false;null
+29;2017-04-25 16:00:00;Águas Santas;2;Carvalhas;0;false;null
+29;2017-04-25 10:00:00;S.Martinho;3;Aborim;1;false;null
+30;2017-04-30 10:00:00;Chorente;1;Paradela;2;false;null
+30;2017-04-30 10:00:00;Cristelo;0;Águas S. Fins;0;false;null
+30;2017-04-30 10:00:00;GD Creixomil;0;Fragoso;3;false;null
+30;2017-04-30 10:00:00;Milhazes;4;Cambeses;3;false;null
+30;2017-04-30 10:00:00;Águias de S.Mamede;1;Lijó;0;false;null
+30;2017-04-30 10:00:00;Perelhal;3;Lama;0;false;null
+30;2017-04-30 10:00:00;Carvalhas;0;Feitos;4;false;null
+30;2017-04-30 10:00:00;Aborim;3;Águas Santas;1;false;null
+31;2017-05-06 16:00:00;Lijó;1;Perelhal;0;false;null
+31;2017-05-07 10:00:00;Paradela;1;Cristelo;2;false;null
+31;2017-05-07 10:00:00;Águas S. Fins;1;GD Creixomil;1;false;null
+31;2017-05-07 10:00:00;Fragoso;2;Milhazes;1;false;null
+31;2017-05-07 10:00:00;Cambeses;0;Águias de S.Mamede;3;false;null
+31;2017-05-07 10:00:00;Lama;2;Carvalhas;0;false;null
+31;2017-05-07 10:00:00;Feitos;1;Aborim;0;false;null
+31;2017-05-07 10:00:00;Águas Santas;3;S.Martinho;1;false;null
+32;2017-05-14 10:00:00;Cristelo;2;Chorente;5;false;null
+32;2017-05-14 10:00:00;GD Creixomil;1;Paradela;1;false;null
+32;2017-05-14 10:00:00;Milhazes;2;Águas S. Fins;0;false;null
+32;2017-05-14 10:00:00;Águias de S.Mamede;1;Fragoso;2;false;null
+32;2017-05-14 10:00:00;Perelhal;2;Cambeses;1;false;null
+32;2017-05-14 10:00:00;Carvalhas;2;Lijó;1;false;null
+32;2017-05-14 10:00:00;Aborim;2;Lama;1;false;null
+32;2017-05-14 10:00:00;S.Martinho;1;Feitos;2;false;null
+33;2017-05-21 10:00:00;Chorente;3;GD Creixomil;2;false;null
+33;2017-05-21 10:00:00;Paradela;1;Milhazes;2;false;null
+33;2017-05-21 10:00:00;Águas S. Fins;4;Águias de S.Mamede;2;false;null
+33;2017-05-21 10:00:00;Fragoso;2;Perelhal;1;false;null
+33;2017-05-21 10:00:00;Cambeses;2;Carvalhas;0;false;null
+33;2017-05-21 10:00:00;Lijó;1;Aborim;0;false;null
+33;2017-05-21 10:00:00;Lama;1;S.Martinho;2;false;null
+33;2017-05-21 10:00:00;Feitos;5;Águas Santas;0;false;null
+34;2017-05-28 10:00:00;GD Creixomil;3;Cristelo;1;false;null
+34;2017-05-28 10:00:00;Milhazes;1;Chorente;2;false;null
+34;2017-05-28 10:00:00;Águias de S.Mamede;2;Paradela;2;false;null
+34;2017-05-28 10:00:00;Perelhal;3;Águas S. Fins;0;false;null
+34;2017-05-28 10:00:00;Carvalhas;1;Fragoso;3;false;null
+34;2017-05-28 10:00:00;Aborim;1;Cambeses;0;false;null
+34;2017-05-28 10:00:00;S.Martinho;0;Lijó;0;false;null
+34;2017-05-28 10:00:00;Águas Santas;4;Lama;4;false;null

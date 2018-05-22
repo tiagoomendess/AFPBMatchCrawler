@@ -1,0 +1,272 @@
+1;2017-09-30 17:30:00;Cristelo;1;Ceramistas;1;false;null
+1;2017-10-01 10:00:00;S.Martinho;4;Carvalhas;0;false;null
+1;2017-10-01 10:00:00;Milhazes;1;Águias de S.Mamede;1;false;null
+1;2017-10-01 10:00:00;Sequeade;4;Paradela;1;false;null
+1;2017-10-01 10:00:00;Lama;2;Estrelas S. Pedro;5;false;null
+1;2017-10-01 10:00:00;Cambeses;0;Aborim;1;false;null
+1;2017-10-01 10:00:00;Lijó;2;Chorente;2;false;null
+1;2017-10-01 10:00:00;Fonte Coberta;2;GD Creixomil;1;false;null
+2;2017-10-08 10:00:00;Carvalhas;0;Fonte Coberta;3;false;null
+2;2017-10-08 10:00:00;Águias de S.Mamede;1;S.Martinho;1;false;null
+2;2017-10-08 10:00:00;Paradela;0;Milhazes;1;false;null
+2;2017-10-08 10:00:00;Estrelas S. Pedro;0;Sequeade;4;false;null
+2;2017-10-08 10:00:00;Aborim;1;Lama;1;false;null
+2;2017-10-08 10:00:00;Águas Santas;3;Cambeses;2;false;null
+2;2017-10-08 10:00:00;Cristelo;0;Chorente;1;false;null
+2;2017-10-08 10:00:00;GD Creixomil;1;Lijó;2;false;null
+3;2017-10-15 10:00:00;Carvalhas;2;Águias de S.Mamede;0;false;null
+3;2017-10-15 10:00:00;S.Martinho;2;Paradela;2;false;null
+3;2017-10-15 10:00:00;Milhazes;6;Estrelas S. Pedro;1;false;null
+3;2017-10-15 10:00:00;Sequeade;2;Aborim;0;false;null
+3;2017-10-15 10:00:00;Lama;3;Águas Santas;2;false;null
+3;2017-10-15 10:00:00;Cambeses;0;Ceramistas;0;false;null
+3;2017-10-15 10:00:00;Cristelo;1;GD Creixomil;2;false;null
+3;2017-10-15 10:00:00;Fonte Coberta;0;Lijó;1;false;null
+4;2017-10-22 10:00:00;Águias de S.Mamede;3;Fonte Coberta;2;false;null
+4;2017-10-22 10:00:00;Paradela;1;Carvalhas;2;false;null
+4;2017-10-22 10:00:00;Estrelas S. Pedro;1;S.Martinho;2;false;null
+4;2017-10-22 10:00:00;Aborim;1;Milhazes;0;false;null
+4;2017-10-22 10:00:00;Águas Santas;0;Sequeade;4;false;null
+4;2017-10-22 10:00:00;Ceramistas;3;Lama;1;false;null
+4;2017-10-22 10:00:00;Chorente;1;Cambeses;0;false;null
+4;2017-10-22 10:00:00;Lijó;1;Cristelo;1;false;null
+5;2017-10-29 10:00:00;Águias de S.Mamede;1;Paradela;1;false;null
+5;2017-10-29 10:00:00;Carvalhas;1;Estrelas S. Pedro;2;false;null
+5;2017-10-29 10:00:00;S.Martinho;5;Aborim;4;false;null
+5;2017-10-29 10:00:00;Milhazes;2;Águas Santas;2;false;null
+5;2017-10-29 10:00:00;Sequeade;6;Ceramistas;1;false;null
+5;2017-10-29 10:00:00;Lama;3;Chorente;2;false;null
+5;2017-10-29 10:00:00;Cambeses;2;GD Creixomil;0;false;null
+5;2017-10-29 10:00:00;Fonte Coberta;2;Cristelo;1;false;null
+6;2017-11-05 10:00:00;Paradela;2;Fonte Coberta;5;false;null
+6;2017-11-05 10:00:00;Estrelas S. Pedro;0;Águias de S.Mamede;2;false;null
+6;2017-11-05 10:00:00;Aborim;3;Carvalhas;1;false;null
+6;2017-11-05 10:00:00;Águas Santas;1;S.Martinho;1;false;null
+6;2017-11-05 10:00:00;Ceramistas;3;Milhazes;2;false;null
+6;2017-11-05 10:00:00;Chorente;0;Sequeade;3;false;null
+6;2017-11-05 10:00:00;GD Creixomil;1;Lama;0;false;null
+6;2017-11-05 10:00:00;Lijó;1;Cambeses;0;false;null
+7;2017-11-12 10:00:00;Paradela;4;Estrelas S. Pedro;0;false;null
+7;2017-11-12 10:00:00;Águias de S.Mamede;1;Aborim;1;false;null
+7;2017-11-12 10:00:00;Carvalhas;1;Águas Santas;2;false;null
+7;2017-11-12 10:00:00;S.Martinho;2;Ceramistas;1;false;null
+7;2017-11-12 10:00:00;Milhazes;0;Chorente;1;false;null
+7;2017-11-12 10:00:00;Sequeade;2;GD Creixomil;1;false;null
+7;2017-11-12 10:00:00;Lama;2;Lijó;4;false;null
+7;2017-11-12 10:00:00;Cambeses;2;Cristelo;2;false;null
+8;2017-11-19 10:00:00;Estrelas S. Pedro;0;Fonte Coberta;2;false;null
+8;2017-11-19 10:00:00;Aborim;2;Paradela;0;false;null
+8;2017-11-19 10:00:00;Águas Santas;2;Águias de S.Mamede;0;false;null
+8;2017-11-19 10:00:00;Ceramistas;6;Carvalhas;1;false;null
+8;2017-11-19 10:00:00;Chorente;4;S.Martinho;1;false;null
+8;2017-11-19 10:00:00;GD Creixomil;0;Milhazes;0;false;null
+8;2017-11-19 10:00:00;Lijó;3;Sequeade;2;false;null
+8;2017-11-19 10:00:00;Cristelo;1;Lama;0;false;null
+9;2017-11-26 10:00:00;Estrelas S. Pedro;0;Aborim;1;false;null
+9;2017-11-26 10:00:00;Paradela;1;Águas Santas;0;false;null
+9;2017-11-26 10:00:00;Águias de S.Mamede;2;Ceramistas;1;false;null
+9;2017-11-26 10:00:00;Carvalhas;1;Chorente;3;false;null
+9;2017-11-26 10:00:00;S.Martinho;3;GD Creixomil;0;false;null
+9;2017-11-26 10:00:00;Milhazes;1;Lijó;3;false;null
+9;2017-11-26 10:00:00;Sequeade;1;Cristelo;1;false;null
+9;2017-11-26 10:00:00;Fonte Coberta;3;Cambeses;2;false;null
+10;2017-12-03 10:00:00;Aborim;1;Fonte Coberta;0;false;null
+10;2017-12-03 10:00:00;Águas Santas;1;Estrelas S. Pedro;1;false;null
+10;2017-12-03 10:00:00;Ceramistas;0;Paradela;2;false;null
+10;2017-12-03 10:00:00;Chorente;2;Águias de S.Mamede;2;false;null
+10;2017-12-03 10:00:00;GD Creixomil;0;Carvalhas;1;false;null
+10;2017-12-03 10:00:00;Lijó;1;S.Martinho;1;false;null
+10;2017-12-03 10:00:00;Cristelo;1;Milhazes;0;false;null
+10;2017-12-03 10:00:00;Cambeses;0;Lama;2;false;null
+11;2017-12-09 15:00:00;Aborim;2;Águas Santas;0;false;null
+11;2017-12-10 10:00:00;Estrelas S. Pedro;3;Ceramistas;3;false;null
+11;2017-12-10 10:00:00;Paradela;2;Chorente;1;false;null
+11;2017-12-10 10:00:00;Águias de S.Mamede;0;GD Creixomil;1;false;null
+11;2017-12-10 10:00:00;Carvalhas;0;Lijó;4;false;null
+11;2017-12-10 10:00:00;S.Martinho;1;Cristelo;0;false;null
+11;2017-12-10 10:00:00;Sequeade;3;Cambeses;0;false;null
+11;2017-12-10 10:00:00;Fonte Coberta;2;Lama;0;false;null
+12;2017-12-16 16:00:00;Águas Santas;0;Fonte Coberta;4;false;null
+12;2017-12-17 10:00:00;Ceramistas;7;Aborim;1;false;null
+12;2017-12-17 10:00:00;Chorente;3;Estrelas S. Pedro;1;false;null
+12;2017-12-17 10:00:00;GD Creixomil;0;Paradela;3;false;null
+12;2017-12-17 10:00:00;Lijó;3;Águias de S.Mamede;0;false;null
+12;2017-12-17 10:00:00;Cristelo;3;Carvalhas;0;false;null
+12;2017-12-17 10:00:00;Cambeses;0;Milhazes;1;false;null
+12;2017-12-17 10:00:00;Lama;1;Sequeade;3;false;null
+13;2017-12-23 15:00:00;Aborim;0;Chorente;0;false;null
+13;2017-12-23 15:00:00;Estrelas S. Pedro;2;GD Creixomil;1;false;null
+13;2017-12-23 15:00:00;Paradela;0;Lijó;2;false;null
+13;2017-12-23 15:00:00;S.Martinho;3;Cambeses;1;false;null
+13;2017-12-23 15:00:00;Milhazes;3;Lama;0;false;null
+13;2017-12-23 15:00:00;Fonte Coberta;0;Sequeade;0;false;null
+13;2017-12-23 10:00:00;Ceramistas;1;Águas Santas;0;false;null
+13;2017-12-30 15:00:00;Águias de S.Mamede;2;Cristelo;1;false;null
+14;2018-01-07 10:00:00;Ceramistas;1;Fonte Coberta;1;false;null
+14;2018-01-07 10:00:00;Chorente;2;Águas Santas;2;false;null
+14;2018-01-07 10:00:00;GD Creixomil;0;Aborim;1;false;null
+14;2018-01-07 10:00:00;Lijó;3;Estrelas S. Pedro;1;false;null
+14;2018-01-07 10:00:00;Cristelo;0;Paradela;1;false;null
+14;2018-01-07 10:00:00;Cambeses;4;Carvalhas;2;false;null
+14;2018-01-07 10:00:00;Lama;0;S.Martinho;3;false;null
+14;2018-01-07 10:00:00;Sequeade;3;Milhazes;0;false;null
+15;2018-01-13 15:00:00;Águias de S.Mamede;4;Cambeses;1;false;null
+15;2018-01-14 10:00:00;Ceramistas;3;Chorente;4;false;null
+15;2018-01-14 10:00:00;GD Creixomil;0;Águas Santas;2;false;null
+15;2018-01-14 10:00:00;Aborim;1;Lijó;1;false;null
+15;2018-01-14 10:00:00;Estrelas S. Pedro;2;Cristelo;3;false;null
+15;2018-01-14 10:00:00;Carvalhas;1;Lama;2;false;null
+15;2018-01-14 10:00:00;S.Martinho;1;Sequeade;3;false;null
+15;2018-01-14 10:00:00;Fonte Coberta;2;Milhazes;0;false;null
+16;2018-01-21 10:00:00;Fonte Coberta;2;Chorente;3;false;null
+16;2018-01-21 10:00:00;GD Creixomil;0;Ceramistas;0;false;null
+16;2018-01-21 10:00:00;Lijó;3;Águas Santas;1;false;null
+16;2018-01-21 10:00:00;Cristelo;2;Aborim;2;false;null
+16;2018-01-21 10:00:00;Cambeses;0;Paradela;1;false;null
+16;2018-01-21 10:00:00;Lama;1;Águias de S.Mamede;1;false;null
+16;2018-01-21 10:00:00;Sequeade;3;Carvalhas;0;false;null
+16;2018-01-21 10:00:00;Milhazes;3;S.Martinho;1;false;null
+17;2018-01-28 10:00:00;Chorente;1;GD Creixomil;1;false;null
+17;2018-01-28 10:00:00;Ceramistas;1;Lijó;3;false;null
+17;2018-01-28 10:00:00;Águas Santas;3;Cristelo;2;false;null
+17;2018-01-28 10:00:00;Estrelas S. Pedro;0;Cambeses;0;false;null
+17;2018-01-28 10:00:00;Paradela;4;Lama;0;false;null
+17;2018-01-28 10:00:00;Águias de S.Mamede;0;Sequeade;3;false;null
+17;2018-01-28 10:00:00;Carvalhas;1;Milhazes;0;false;null
+17;2018-01-28 10:00:00;S.Martinho;0;Fonte Coberta;2;false;null
+18;2018-02-03 15:30:00;Águias de S.Mamede;1;Milhazes;1;false;null
+18;2018-02-04 10:00:00;Carvalhas;1;S.Martinho;0;false;null
+18;2018-02-04 10:00:00;Paradela;2;Sequeade;0;false;null
+18;2018-02-04 10:00:00;Estrelas S. Pedro;1;Lama;0;false;null
+18;2018-02-04 10:00:00;Aborim;1;Cambeses;3;false;null
+18;2018-02-04 10:00:00;Ceramistas;1;Cristelo;4;false;null
+18;2018-02-04 10:00:00;Chorente;1;Lijó;2;false;null
+18;2018-02-04 10:00:00;GD Creixomil;1;Fonte Coberta;3;false;null
+19;2018-02-10 15:00:00;Lama;1;Aborim;1;false;null
+19;2018-02-10 15:00:00;Cambeses;0;Águas Santas;0;false;null
+19;2018-02-10 15:00:00;Lijó;1;GD Creixomil;1;false;null
+19;2018-02-11 10:00:00;Fonte Coberta;2;Carvalhas;1;false;null
+19;2018-02-11 10:00:00;S.Martinho;2;Águias de S.Mamede;2;false;null
+19;2018-02-11 10:00:00;Milhazes;1;Paradela;2;false;null
+19;2018-02-11 10:00:00;Sequeade;7;Estrelas S. Pedro;2;false;null
+19;2018-02-11 10:00:00;Cristelo;4;Chorente;0;false;null
+20;2018-02-18 10:00:00;Águias de S.Mamede;2;Carvalhas;0;false;null
+20;2018-02-18 10:00:00;Paradela;0;S.Martinho;0;false;null
+20;2018-02-18 10:00:00;Estrelas S. Pedro;4;Milhazes;3;false;null
+20;2018-02-18 10:00:00;Aborim;2;Sequeade;2;false;null
+20;2018-02-18 10:00:00;Águas Santas;2;Lama;1;false;null
+20;2018-02-18 10:00:00;Ceramistas;2;Cambeses;3;false;null
+20;2018-02-18 10:00:00;GD Creixomil;0;Cristelo;1;false;null
+20;2018-02-18 10:00:00;Lijó;1;Fonte Coberta;1;false;null
+21;2018-02-24 15:00:00;Lama;1;Ceramistas;2;false;null
+21;2018-02-25 10:00:00;Fonte Coberta;3;Águias de S.Mamede;3;false;null
+21;2018-02-25 10:00:00;Carvalhas;0;Paradela;1;false;null
+21;2018-02-25 10:00:00;S.Martinho;2;Estrelas S. Pedro;0;false;null
+21;2018-02-25 10:00:00;Milhazes;2;Aborim;2;false;null
+21;2018-02-25 10:00:00;Sequeade;4;Águas Santas;0;false;null
+21;2018-02-25 10:00:00;Cambeses;2;Chorente;1;false;null
+21;2018-02-25 10:00:00;Cristelo;0;Lijó;3;false;null
+22;2018-03-04 10:00:00;Estrelas S. Pedro;3;Carvalhas;3;false;null
+22;2018-03-04 10:00:00;Aborim;0;S.Martinho;1;false;null
+22;2018-03-04 10:00:00;Águas Santas;2;Milhazes;0;false;null
+22;2018-03-04 10:00:00;Ceramistas;0;Sequeade;2;false;null
+22;2018-03-04 10:00:00;Chorente;1;Lama;2;false;null
+22;2018-03-04 10:00:00;GD Creixomil;3;Cambeses;0;false;null
+22;2018-03-04 10:00:00;Cristelo;1;Fonte Coberta;2;false;null
+22;2018-04-25 16:00:00;Paradela;0;Águias de S.Mamede;0;false;null
+23;2018-03-11 10:00:00;Fonte Coberta;2;Paradela;0;false;null
+23;2018-03-11 10:00:00;Águias de S.Mamede;1;Estrelas S. Pedro;1;false;null
+23;2018-03-11 10:00:00;Carvalhas;1;Aborim;6;false;null
+23;2018-03-11 10:00:00;S.Martinho;1;Águas Santas;1;false;null
+23;2018-03-11 10:00:00;Milhazes;2;Ceramistas;1;false;null
+23;2018-03-11 10:00:00;Sequeade;7;Chorente;1;false;null
+23;2018-03-11 10:00:00;Lama;1;GD Creixomil;0;false;null
+23;2018-03-11 10:00:00;Cambeses;0;Lijó;1;false;null
+24;2018-03-18 10:00:00;Estrelas S. Pedro;0;Paradela;5;false;null
+24;2018-03-18 10:00:00;Aborim;3;Águias de S.Mamede;4;false;null
+24;2018-03-18 10:00:00;Águas Santas;3;Carvalhas;2;false;null
+24;2018-03-18 10:00:00;Ceramistas;4;S.Martinho;5;false;null
+24;2018-03-18 10:00:00;Chorente;3;Milhazes;2;false;null
+24;2018-03-18 10:00:00;GD Creixomil;1;Sequeade;1;false;null
+24;2018-03-18 10:00:00;Lijó;3;Lama;1;false;null
+24;2018-03-18 10:00:00;Cristelo;3;Cambeses;2;false;null
+25;2018-03-25 10:00:00;Fonte Coberta;6;Estrelas S. Pedro;3;false;null
+25;2018-03-25 10:00:00;Paradela;2;Aborim;1;false;null
+25;2018-03-25 10:00:00;Águias de S.Mamede;3;Águas Santas;2;false;null
+25;2018-03-25 10:00:00;Carvalhas;1;Ceramistas;1;false;null
+25;2018-03-25 10:00:00;S.Martinho;1;Chorente;1;false;null
+25;2018-03-25 10:00:00;Milhazes;3;GD Creixomil;0;false;null
+25;2018-03-25 10:00:00;Sequeade;0;Lijó;1;false;null
+25;2018-03-25 10:00:00;Lama;0;Cristelo;2;false;null
+26;2018-03-31 16:00:00;Aborim;0;Estrelas S. Pedro;0;false;null
+26;2018-03-31 16:00:00;Águas Santas;0;Paradela;0;false;null
+26;2018-03-31 16:00:00;Ceramistas;0;Águias de S.Mamede;0;false;null
+26;2018-03-31 16:00:00;Chorente;0;Carvalhas;0;false;null
+26;2018-03-31 16:00:00;GD Creixomil;0;S.Martinho;0;false;null
+26;2018-03-31 16:00:00;Lijó;0;Milhazes;0;false;null
+26;2018-03-31 16:00:00;Cristelo;0;Sequeade;0;false;null
+26;2018-03-31 16:00:00;Cambeses;0;Fonte Coberta;0;false;null
+27;2018-04-08 10:00:00;Fonte Coberta;0;Aborim;0;false;null
+27;2018-04-08 10:00:00;Estrelas S. Pedro;0;Águas Santas;0;false;null
+27;2018-04-08 10:00:00;Paradela;0;Ceramistas;0;false;null
+27;2018-04-08 10:00:00;Águias de S.Mamede;0;Chorente;0;false;null
+27;2018-04-08 10:00:00;Carvalhas;0;GD Creixomil;0;false;null
+27;2018-04-08 10:00:00;S.Martinho;0;Lijó;0;false;null
+27;2018-04-08 10:00:00;Milhazes;0;Cristelo;0;false;null
+27;2018-04-08 10:00:00;Lama;0;Cambeses;0;false;null
+28;2018-04-15 10:00:00;Águas Santas;0;Aborim;0;false;null
+28;2018-04-15 10:00:00;Ceramistas;0;Estrelas S. Pedro;0;false;null
+28;2018-04-15 10:00:00;Chorente;0;Paradela;0;false;null
+28;2018-04-15 10:00:00;GD Creixomil;0;Águias de S.Mamede;0;false;null
+28;2018-04-15 10:00:00;Lijó;0;Carvalhas;0;false;null
+28;2018-04-15 10:00:00;Cristelo;0;S.Martinho;0;false;null
+28;2018-04-15 10:00:00;Cambeses;0;Sequeade;0;false;null
+28;2018-04-15 10:00:00;Lama;0;Fonte Coberta;0;false;null
+29;2018-04-22 10:00:00;Fonte Coberta;0;Águas Santas;0;false;null
+29;2018-04-22 10:00:00;Aborim;0;Ceramistas;0;false;null
+29;2018-04-22 10:00:00;Estrelas S. Pedro;0;Chorente;0;false;null
+29;2018-04-22 10:00:00;Paradela;0;GD Creixomil;0;false;null
+29;2018-04-22 10:00:00;Águias de S.Mamede;0;Lijó;0;false;null
+29;2018-04-22 10:00:00;Carvalhas;0;Cristelo;0;false;null
+29;2018-04-22 10:00:00;Milhazes;0;Cambeses;0;false;null
+29;2018-04-22 10:00:00;Sequeade;0;Lama;0;false;null
+30;2018-04-29 10:00:00;Águas Santas;0;Ceramistas;0;false;null
+30;2018-04-29 10:00:00;Chorente;0;Aborim;0;false;null
+30;2018-04-29 10:00:00;Cristelo;0;Estrelas S. Pedro;0;false;null
+30;2018-04-29 10:00:00;Lijó;0;Paradela;0;false;null
+30;2018-04-29 10:00:00;Cristelo;0;Águias de S.Mamede;0;false;null
+30;2018-04-29 10:00:00;Cambeses;0;S.Martinho;0;false;null
+30;2018-04-29 10:00:00;Lama;0;Milhazes;0;false;null
+30;2018-04-29 10:00:00;Sequeade;0;Fonte Coberta;0;false;null
+31;2018-05-06 10:00:00;Fonte Coberta;0;Ceramistas;0;false;null
+31;2018-05-06 10:00:00;Águas Santas;0;Chorente;0;false;null
+31;2018-05-06 10:00:00;Aborim;0;GD Creixomil;0;false;null
+31;2018-05-06 10:00:00;Estrelas S. Pedro;0;Lijó;0;false;null
+31;2018-05-06 10:00:00;Paradela;0;Cristelo;0;false;null
+31;2018-05-06 10:00:00;Carvalhas;0;Cambeses;0;false;null
+31;2018-05-06 10:00:00;S.Martinho;0;Lama;0;false;null
+31;2018-05-06 10:00:00;Milhazes;0;Sequeade;0;false;null
+32;2018-05-13 10:00:00;Chorente;0;Ceramistas;0;false;null
+32;2018-05-13 10:00:00;Águas Santas;0;GD Creixomil;0;false;null
+32;2018-05-13 10:00:00;Lijó;0;Aborim;0;false;null
+32;2018-05-13 10:00:00;Cristelo;0;Estrelas S. Pedro;0;false;null
+32;2018-05-13 10:00:00;Cambeses;0;Águias de S.Mamede;0;false;null
+32;2018-05-13 10:00:00;Lama;0;Carvalhas;0;false;null
+32;2018-05-13 10:00:00;Sequeade;0;S.Martinho;0;false;null
+32;2018-05-13 10:00:00;Milhazes;0;Fonte Coberta;0;false;null
+33;2018-05-20 10:00:00;Chorente;0;Fonte Coberta;0;false;null
+33;2018-05-20 10:00:00;Ceramistas;0;GD Creixomil;0;false;null
+33;2018-05-20 10:00:00;Águas Santas;0;Lijó;0;false;null
+33;2018-05-20 10:00:00;Aborim;0;Cristelo;0;false;null
+33;2018-05-20 10:00:00;Paradela;0;Cambeses;0;false;null
+33;2018-05-20 10:00:00;Águias de S.Mamede;0;Lama;0;false;null
+33;2018-05-20 10:00:00;Carvalhas;0;Sequeade;0;false;null
+33;2018-05-20 10:00:00;S.Martinho;0;Milhazes;0;false;null
+34;2018-05-27 10:00:00;GD Creixomil;0;Chorente;0;false;null
+34;2018-05-27 10:00:00;Lijó;0;Ceramistas;0;false;null
+34;2018-05-27 10:00:00;Cristelo;0;Águas Santas;0;false;null
+34;2018-05-27 10:00:00;Cambeses;0;Estrelas S. Pedro;0;false;null
+34;2018-05-27 10:00:00;Lama;0;Paradela;0;false;null
+34;2018-05-27 10:00:00;Sequeade;0;Águias de S.Mamede;0;false;null
+34;2018-05-27 10:00:00;Milhazes;0;Carvalhas;0;false;null
+34;2018-05-27 10:00:00;Fonte Coberta;0;S.Martinho;0;false;null

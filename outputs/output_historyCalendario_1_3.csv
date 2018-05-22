@@ -1,0 +1,306 @@
+1;2017-10-01 10:00:00;Pedra Furada;1;Baluganense;3;false;null
+1;2017-10-01 10:00:00;Silva;0;Macieira;1;false;null
+1;2017-10-01 10:00:00;Perelhal;1;Remelhe;1;false;null
+1;2017-10-01 10:00:00;Feitos;1;Leões da Serra;2;false;null
+1;2017-10-01 10:00:00;Pereira;1;Palme;0;false;null
+1;2017-10-01 10:00:00;Leocadenses;3;Oliveira;1;false;null
+1;2017-10-01 10:00:00;Fragoso;2;Carapeços;0;false;null
+1;2017-10-01 10:00:00;Carvalhal;4;Cossourado;0;false;null
+1;2017-10-01 10:00:00;GDR CAMPO;2;Negreiros;3;false;null
+2;2017-10-07 16:00:00;Leocadenses;2;Carapeços;4;false;null
+2;2017-10-08 10:00:00;Baluganense;0;GDR CAMPO;0;false;null
+2;2017-10-08 10:00:00;Macieira;4;Pedra Furada;1;false;null
+2;2017-10-08 10:00:00;Remelhe;2;Silva;0;false;null
+2;2017-10-08 10:00:00;Leões da Serra;3;Perelhal;2;false;null
+2;2017-10-08 10:00:00;Palme;3;Feitos;1;false;null
+2;2017-10-08 10:00:00;Oliveira;1;Pereira;2;false;null
+2;2017-10-08 10:00:00;Cossourado;2;Fragoso;2;false;null
+2;2017-10-08 10:00:00;Negreiros;2;Carvalhal;0;false;null
+3;2017-10-15 10:00:00;Baluganense;2;Macieira;1;false;null
+3;2017-10-15 10:00:00;Pedra Furada;1;Remelhe;6;false;null
+3;2017-10-15 10:00:00;Silva;0;Leões da Serra;1;false;null
+3;2017-10-15 10:00:00;Perelhal;1;Palme;1;false;null
+3;2017-10-15 10:00:00;Feitos;2;Oliveira;1;false;null
+3;2017-10-15 10:00:00;Pereira;1;Carapeços;0;false;null
+3;2017-10-15 10:00:00;Leocadenses;1;Cossourado;0;false;null
+3;2017-10-15 10:00:00;Fragoso;2;Negreiros;0;false;null
+3;2017-10-15 10:00:00;GDR CAMPO;1;Carvalhal;2;false;null
+4;2017-10-22 10:00:00;Macieira;3;GDR CAMPO;1;false;null
+4;2017-10-22 10:00:00;Remelhe;3;Baluganense;0;false;null
+4;2017-10-22 10:00:00;Leões da Serra;6;Pedra Furada;0;false;null
+4;2017-10-22 10:00:00;Palme;1;Silva;0;false;null
+4;2017-10-22 10:00:00;Oliveira;2;Perelhal;1;false;null
+4;2017-10-22 10:00:00;Carapeços;7;Feitos;1;false;null
+4;2017-10-22 10:00:00;Cossourado;3;Pereira;3;false;null
+4;2017-10-22 10:00:00;Negreiros;1;Leocadenses;2;false;null
+4;2017-10-22 10:00:00;Carvalhal;3;Fragoso;0;false;null
+5;2017-10-28 19:00:00;Silva;1;Oliveira;0;false;null
+5;2017-10-28 15:00:00;Leocadenses;1;Carvalhal;2;false;null
+5;2017-10-28 16:00:00;GDR CAMPO;2;Fragoso;1;false;null
+5;2017-10-29 10:00:00;Macieira;2;Remelhe;1;false;null
+5;2017-10-29 10:00:00;Baluganense;0;Leões da Serra;0;false;null
+5;2017-10-29 10:00:00;Pedra Furada;1;Palme;2;false;null
+5;2017-10-29 10:00:00;Perelhal;2;Carapeços;0;false;null
+5;2017-10-29 10:00:00;Feitos;1;Cossourado;1;false;null
+5;2017-10-29 10:00:00;Pereira;2;Negreiros;0;false;null
+6;2017-11-04 15:30:00;Carapeços;3;Silva;2;false;null
+6;2017-11-04 16:00:00;Fragoso;0;Leocadenses;3;false;null
+6;2017-11-05 10:00:00;Remelhe;0;GDR CAMPO;0;false;null
+6;2017-11-05 10:00:00;Leões da Serra;2;Macieira;1;false;null
+6;2017-11-05 10:00:00;Palme;2;Baluganense;2;false;null
+6;2017-11-05 10:00:00;Oliveira;4;Pedra Furada;0;false;null
+6;2017-11-05 10:00:00;Cossourado;1;Perelhal;2;false;null
+6;2017-11-05 10:00:00;Negreiros;1;Feitos;1;false;null
+6;2017-11-05 10:00:00;Carvalhal;1;Pereira;0;false;null
+7;2017-11-12 10:00:00;Baluganense;3;Oliveira;3;false;null
+7;2017-11-12 10:00:00;Macieira;2;Palme;1;false;null
+7;2017-11-12 10:00:00;Pedra Furada;0;Carapeços;5;false;null
+7;2017-11-12 10:00:00;Silva;5;Cossourado;0;false;null
+7;2017-11-12 10:00:00;Remelhe;0;Leões da Serra;0;false;null
+7;2017-11-12 10:00:00;Perelhal;1;Negreiros;1;false;null
+7;2017-11-12 10:00:00;Feitos;1;Carvalhal;0;false;null
+7;2017-11-12 10:00:00;Pereira;1;Fragoso;0;false;null
+7;2017-11-12 10:00:00;GDR CAMPO;3;Leocadenses;3;false;null
+8;2017-11-18 17:00:00;Carapeços;4;Baluganense;0;false;null
+8;2017-11-19 10:00:00;Leões da Serra;3;GDR CAMPO;1;false;null
+8;2017-11-19 10:00:00;Palme;0;Remelhe;1;false;null
+8;2017-11-19 10:00:00;Oliveira;0;Macieira;0;false;null
+8;2017-11-19 10:00:00;Cossourado;2;Pedra Furada;1;false;null
+8;2017-11-19 10:00:00;Negreiros;0;Silva;3;false;null
+8;2017-11-19 10:00:00;Carvalhal;2;Perelhal;0;false;null
+8;2017-11-19 10:00:00;Fragoso;0;Feitos;3;false;null
+8;2017-11-19 10:00:00;Leocadenses;3;Pereira;1;false;null
+9;2017-11-26 10:00:00;Leões da Serra;2;Palme;1;false;null
+9;2017-11-26 10:00:00;Remelhe;3;Oliveira;0;false;null
+9;2017-11-26 10:00:00;Macieira;2;Carapeços;1;false;null
+9;2017-11-26 10:00:00;Baluganense;0;Cossourado;2;false;null
+9;2017-11-26 10:00:00;Pedra Furada;1;Negreiros;1;false;null
+9;2017-11-26 10:00:00;Silva;1;Carvalhal;1;false;null
+9;2017-11-26 10:00:00;Perelhal;1;Fragoso;1;false;null
+9;2017-11-26 10:00:00;Feitos;0;Leocadenses;1;false;null
+9;2017-11-26 10:00:00;GDR CAMPO;1;Pereira;1;false;null
+10;2017-12-02 16:00:00;Carapeços;3;Remelhe;0;false;null
+10;2017-12-03 10:00:00;Palme;3;GDR CAMPO;3;false;null
+10;2017-12-03 10:00:00;Oliveira;1;Leões da Serra;1;false;null
+10;2017-12-03 10:00:00;Cossourado;1;Macieira;1;false;null
+10;2017-12-03 10:00:00;Negreiros;3;Baluganense;1;false;null
+10;2017-12-03 10:00:00;Carvalhal;2;Pedra Furada;0;false;null
+10;2017-12-03 10:00:00;Fragoso;1;Silva;2;false;null
+10;2017-12-03 10:00:00;Leocadenses;4;Perelhal;0;false;null
+10;2017-12-03 10:00:00;Pereira;1;Feitos;0;false;null
+11;2017-12-09 15:00:00;Baluganense;2;Carvalhal;1;false;null
+11;2017-12-10 10:00:00;Palme;1;Oliveira;2;false;null
+11;2017-12-10 10:00:00;Leões da Serra;1;Carapeços;0;false;null
+11;2017-12-10 10:00:00;Remelhe;4;Cossourado;2;false;null
+11;2017-12-10 10:00:00;Macieira;2;Negreiros;1;false;null
+11;2017-12-10 10:00:00;Pedra Furada;1;Fragoso;1;false;null
+11;2017-12-10 10:00:00;Silva;2;Leocadenses;0;false;null
+11;2017-12-10 10:00:00;Perelhal;4;Pereira;0;false;null
+11;2017-12-10 10:00:00;GDR CAMPO;4;Feitos;2;false;null
+12;2017-12-16 15:00:00;Carapeços;5;Palme;0;false;null
+12;2017-12-17 10:00:00;Oliveira;2;GDR CAMPO;1;false;null
+12;2017-12-17 10:00:00;Cossourado;0;Leões da Serra;1;false;null
+12;2017-12-17 10:00:00;Negreiros;0;Remelhe;0;false;null
+12;2017-12-17 10:00:00;Carvalhal;4;Macieira;2;false;null
+12;2017-12-17 10:00:00;Fragoso;5;Baluganense;1;false;null
+12;2017-12-17 10:00:00;Leocadenses;3;Pedra Furada;1;false;null
+12;2017-12-17 10:00:00;Pereira;1;Silva;1;false;null
+12;2017-12-17 10:00:00;Feitos;1;Perelhal;1;false;null
+13;2017-12-23 15:00:00;Oliveira;1;Carapeços;1;false;null
+13;2017-12-23 15:00:00;Palme;1;Cossourado;3;false;null
+13;2017-12-23 15:00:00;Leões da Serra;1;Negreiros;0;false;null
+13;2017-12-23 15:00:00;Remelhe;1;Carvalhal;0;false;null
+13;2017-12-23 15:00:00;Macieira;1;Fragoso;0;false;null
+13;2017-12-23 15:00:00;Baluganense;0;Leocadenses;2;false;null
+13;2017-12-23 15:00:00;Pedra Furada;0;Pereira;1;false;null
+13;2017-12-23 15:00:00;Silva;1;Feitos;2;false;null
+13;2017-12-23 15:00:00;GDR CAMPO;1;Perelhal;0;false;null
+14;2018-01-06 15:00:00;Carapeços;3;GDR CAMPO;2;false;null
+14;2018-01-07 10:00:00;Cossourado;2;Oliveira;2;false;null
+14;2018-01-07 10:00:00;Negreiros;0;Palme;1;false;null
+14;2018-01-07 10:00:00;Carvalhal;4;Leões da Serra;1;false;null
+14;2018-01-07 10:00:00;Fragoso;1;Remelhe;0;false;null
+14;2018-01-07 10:00:00;Leocadenses;2;Macieira;3;false;null
+14;2018-01-07 10:00:00;Pereira;0;Baluganense;0;false;null
+14;2018-01-07 10:00:00;Feitos;5;Pedra Furada;1;false;null
+14;2018-01-07 10:00:00;Perelhal;2;Silva;0;false;null
+15;2018-01-14 10:00:00;Carapeços;5;Cossourado;1;false;null
+15;2018-01-14 10:00:00;Oliveira;0;Negreiros;0;false;null
+15;2018-01-14 10:00:00;Palme;0;Carvalhal;0;false;null
+15;2018-01-14 10:00:00;Leões da Serra;2;Fragoso;1;false;null
+15;2018-01-14 10:00:00;Remelhe;0;Leocadenses;1;false;null
+15;2018-01-14 10:00:00;Macieira;1;Pereira;0;false;null
+15;2018-01-14 10:00:00;Baluganense;2;Feitos;1;false;null
+15;2018-01-14 10:00:00;Pedra Furada;3;Perelhal;2;false;null
+15;2018-01-14 10:00:00;GDR CAMPO;0;Silva;0;false;null
+16;2018-01-21 10:00:00;GDR CAMPO;1;Cossourado;0;false;null
+16;2018-01-21 10:00:00;Negreiros;0;Carapeços;2;false;null
+16;2018-01-21 10:00:00;Carvalhal;4;Oliveira;1;false;null
+16;2018-01-21 10:00:00;Fragoso;1;Palme;2;false;null
+16;2018-01-21 10:00:00;Leocadenses;1;Leões da Serra;3;false;null
+16;2018-01-21 10:00:00;Pereira;0;Remelhe;0;false;null
+16;2018-01-21 10:00:00;Feitos;0;Macieira;1;false;null
+16;2018-01-21 10:00:00;Silva;5;Pedra Furada;1;false;null
+16;2018-01-21 10:00:00;Perelhal;3;Baluganense;0;false;null
+17;2018-01-27 15:00:00;Baluganense;1;Silva;1;false;null
+17;2018-01-28 10:00:00;Cossourado;1;Negreiros;2;false;null
+17;2018-01-28 10:00:00;Carapeços;1;Carvalhal;0;false;null
+17;2018-01-28 10:00:00;Oliveira;1;Fragoso;2;false;null
+17;2018-01-28 10:00:00;Palme;1;Leocadenses;1;false;null
+17;2018-01-28 10:00:00;Leões da Serra;0;Pereira;0;false;null
+17;2018-01-28 10:00:00;Remelhe;1;Feitos;0;false;null
+17;2018-01-28 10:00:00;Macieira;2;Perelhal;3;false;null
+17;2018-01-28 10:00:00;Pedra Furada;0;GDR CAMPO;0;false;null
+18;2018-02-04 10:00:00;Baluganense;2;Pedra Furada;1;false;null
+18;2018-02-04 10:00:00;Macieira;3;Silva;2;false;null
+18;2018-02-04 10:00:00;Remelhe;1;Perelhal;0;false;null
+18;2018-02-04 10:00:00;Leões da Serra;2;Feitos;0;false;null
+18;2018-02-04 10:00:00;Palme;3;Pereira;2;false;null
+18;2018-02-04 10:00:00;Oliveira;0;Leocadenses;3;false;null
+18;2018-02-04 10:00:00;Carapeços;3;Fragoso;0;false;null
+18;2018-02-04 10:00:00;Cossourado;0;Carvalhal;2;false;null
+18;2018-02-04 10:00:00;Negreiros;4;GDR CAMPO;1;false;null
+19;2018-02-10 16:00:00;GDR CAMPO;2;Baluganense;0;false;null
+19;2018-02-10 15:00:00;Silva;0;Remelhe;0;false;null
+19;2018-02-10 16:00:00;Pereira;0;Oliveira;0;false;null
+19;2018-02-10 15:00:00;Leocadenses;2;Carapeços;1;false;null
+19;2018-02-11 10:00:00;Pedra Furada;1;Macieira;3;false;null
+19;2018-02-11 10:00:00;Perelhal;1;Leões da Serra;1;false;null
+19;2018-02-11 10:00:00;Feitos;0;Palme;3;false;null
+19;2018-02-11 10:00:00;Fragoso;1;Cossourado;0;false;null
+19;2018-02-11 10:00:00;Carvalhal;4;Negreiros;0;false;null
+20;2018-02-18 10:00:00;Macieira;3;Baluganense;1;false;null
+20;2018-02-18 10:00:00;Remelhe;4;Pedra Furada;0;false;null
+20;2018-02-18 10:00:00;Leões da Serra;3;Silva;1;false;null
+20;2018-02-18 10:00:00;Palme;2;Perelhal;2;false;null
+20;2018-02-18 10:00:00;Oliveira;3;Feitos;2;false;null
+20;2018-02-18 10:00:00;Carapeços;2;Pereira;1;false;null
+20;2018-02-18 10:00:00;Cossourado;1;Leocadenses;3;false;null
+20;2018-02-18 10:00:00;Negreiros;2;Fragoso;2;false;null
+20;2018-02-18 10:00:00;Carvalhal;2;GDR CAMPO;0;false;null
+21;2018-02-25 10:00:00;GDR CAMPO;2;Macieira;2;false;null
+21;2018-02-25 10:00:00;Baluganense;2;Remelhe;2;false;null
+21;2018-02-25 10:00:00;Pedra Furada;2;Leões da Serra;3;false;null
+21;2018-02-25 10:00:00;Silva;4;Palme;3;false;null
+21;2018-02-25 10:00:00;Perelhal;0;Oliveira;1;false;null
+21;2018-02-25 10:00:00;Feitos;0;Carapeços;1;false;null
+21;2018-02-25 10:00:00;Pereira;3;Cossourado;3;false;null
+21;2018-02-25 10:00:00;Leocadenses;1;Negreiros;0;false;null
+21;2018-02-25 10:00:00;Fragoso;1;Carvalhal;1;false;null
+22;2018-03-04 10:00:00;Remelhe;0;Macieira;0;false;null
+22;2018-03-04 10:00:00;Leões da Serra;2;Baluganense;0;false;null
+22;2018-03-04 10:00:00;Palme;4;Pedra Furada;0;false;null
+22;2018-03-04 10:00:00;Oliveira;3;Silva;2;false;null
+22;2018-03-04 10:00:00;Carapeços;1;Perelhal;2;false;null
+22;2018-03-04 10:00:00;Cossourado;1;Feitos;1;false;null
+22;2018-03-04 10:00:00;Negreiros;3;Pereira;0;false;null
+22;2018-03-04 10:00:00;Carvalhal;2;Leocadenses;1;false;null
+22;2018-03-04 10:00:00;Fragoso;3;GDR CAMPO;1;false;null
+23;2018-03-10 15:00:00;Silva;0;Carapeços;2;false;null
+23;2018-03-10 16:00:00;Leocadenses;1;Fragoso;1;false;null
+23;2018-03-11 10:00:00;GDR CAMPO;0;Remelhe;3;false;null
+23;2018-03-11 10:00:00;Macieira;0;Leões da Serra;0;false;null
+23;2018-03-11 10:00:00;Baluganense;1;Palme;2;false;null
+23;2018-03-11 10:00:00;Pedra Furada;3;Oliveira;3;false;null
+23;2018-03-11 10:00:00;Perelhal;5;Cossourado;2;false;null
+23;2018-03-11 10:00:00;Feitos;0;Negreiros;1;false;null
+23;2018-03-11 10:00:00;Pereira;1;Carvalhal;1;false;null
+24;2018-03-17 16:00:00;Carapeços;5;Pedra Furada;0;false;null
+24;2018-03-18 10:00:00;Leões da Serra;0;Remelhe;0;false;null
+24;2018-03-18 10:00:00;Palme;2;Macieira;2;false;null
+24;2018-03-18 10:00:00;Oliveira;1;Baluganense;1;false;null
+24;2018-03-18 10:00:00;Cossourado;2;Silva;1;false;null
+24;2018-03-18 10:00:00;Negreiros;1;Perelhal;1;false;null
+24;2018-03-18 10:00:00;Carvalhal;2;Feitos;1;false;null
+24;2018-03-18 10:00:00;Fragoso;1;Pereira;1;false;null
+24;2018-03-18 10:00:00;Leocadenses;0;GDR CAMPO;0;false;null
+25;2018-03-25 10:00:00;GDR CAMPO;1;Leões da Serra;1;false;null
+25;2018-03-25 10:00:00;Remelhe;4;Palme;1;false;null
+25;2018-03-25 10:00:00;Macieira;3;Oliveira;0;false;null
+25;2018-03-25 10:00:00;Baluganense;1;Carapeços;1;false;null
+25;2018-03-25 10:00:00;Pedra Furada;1;Cossourado;1;false;null
+25;2018-03-25 10:00:00;Silva;2;Negreiros;1;false;null
+25;2018-03-25 10:00:00;Perelhal;0;Carvalhal;0;false;null
+25;2018-03-25 10:00:00;Feitos;0;Fragoso;2;false;null
+25;2018-03-25 10:00:00;Pereira;0;Leocadenses;0;false;null
+26;2018-03-31 16:00:00;Palme;0;Leões da Serra;0;false;null
+26;2018-03-31 16:00:00;Oliveira;0;Remelhe;0;false;null
+26;2018-03-31 16:00:00;Carapeços;0;Macieira;0;false;null
+26;2018-03-31 16:00:00;Cossourado;0;Baluganense;0;false;null
+26;2018-03-31 16:00:00;Negreiros;0;Pedra Furada;0;false;null
+26;2018-03-31 16:00:00;Carvalhal;0;Silva;0;false;null
+26;2018-03-31 16:00:00;Fragoso;0;Perelhal;0;false;null
+26;2018-03-31 16:00:00;Leocadenses;0;Feitos;0;false;null
+26;2018-03-31 16:00:00;Pereira;0;GDR CAMPO;0;false;null
+27;2018-04-08 10:00:00;GDR CAMPO;0;Palme;0;false;null
+27;2018-04-08 10:00:00;Leões da Serra;0;Oliveira;0;false;null
+27;2018-04-08 10:00:00;Remelhe;0;Carapeços;0;false;null
+27;2018-04-08 10:00:00;Macieira;0;Cossourado;0;false;null
+27;2018-04-08 10:00:00;Baluganense;0;Negreiros;0;false;null
+27;2018-04-08 10:00:00;Pedra Furada;0;Carvalhal;0;false;null
+27;2018-04-08 10:00:00;Silva;0;Fragoso;0;false;null
+27;2018-04-08 10:00:00;Perelhal;0;Leocadenses;0;false;null
+27;2018-04-08 10:00:00;Feitos;0;Pereira;0;false;null
+28;2018-04-15 10:00:00;Oliveira;0;Palme;0;false;null
+28;2018-04-15 10:00:00;Carapeços;0;Leões da Serra;0;false;null
+28;2018-04-15 10:00:00;Cossourado;0;Remelhe;0;false;null
+28;2018-04-15 10:00:00;Negreiros;0;Macieira;0;false;null
+28;2018-04-15 10:00:00;Carvalhal;0;Baluganense;0;false;null
+28;2018-04-15 10:00:00;Fragoso;0;Pedra Furada;0;false;null
+28;2018-04-15 10:00:00;Leocadenses;0;Silva;0;false;null
+28;2018-04-15 10:00:00;Pereira;0;Perelhal;0;false;null
+28;2018-04-15 10:00:00;Feitos;0;GDR CAMPO;0;false;null
+29;2018-04-22 10:00:00;GDR CAMPO;0;Oliveira;0;false;null
+29;2018-04-22 10:00:00;Palme;0;Carapeços;0;false;null
+29;2018-04-22 10:00:00;Leões da Serra;0;Cossourado;0;false;null
+29;2018-04-22 10:00:00;Remelhe;0;Negreiros;0;false;null
+29;2018-04-22 10:00:00;Macieira;0;Carvalhal;0;false;null
+29;2018-04-22 10:00:00;Baluganense;0;Fragoso;0;false;null
+29;2018-04-22 10:00:00;Pedra Furada;0;Leocadenses;0;false;null
+29;2018-04-22 10:00:00;Perelhal;0;Feitos;0;false;null
+29;2018-04-22 10:00:00;Silva;0;Pereira;0;false;null
+30;2018-04-29 10:00:00;Carapeços;0;Oliveira;0;false;null
+30;2018-04-29 10:00:00;Cossourado;0;Palme;0;false;null
+30;2018-04-29 10:00:00;Negreiros;0;Leões da Serra;0;false;null
+30;2018-04-29 10:00:00;Carvalhal;0;Remelhe;0;false;null
+30;2018-04-29 10:00:00;Fragoso;0;Macieira;0;false;null
+30;2018-04-29 10:00:00;Leocadenses;0;Baluganense;0;false;null
+30;2018-04-29 10:00:00;Pereira;0;Pedra Furada;0;false;null
+30;2018-04-29 10:00:00;Feitos;0;Silva;0;false;null
+30;2018-04-29 10:00:00;Perelhal;0;GDR CAMPO;0;false;null
+31;2018-05-06 10:00:00;GDR CAMPO;0;Carapeços;0;false;null
+31;2018-05-06 10:00:00;Oliveira;0;Cossourado;0;false;null
+31;2018-05-06 10:00:00;Palme;0;Negreiros;0;false;null
+31;2018-05-06 10:00:00;Leões da Serra;0;Carvalhal;0;false;null
+31;2018-05-06 10:00:00;Remelhe;0;Fragoso;0;false;null
+31;2018-05-06 10:00:00;Macieira;0;Leocadenses;0;false;null
+31;2018-05-06 10:00:00;Baluganense;0;Pereira;0;false;null
+31;2018-05-06 10:00:00;Pedra Furada;0;Feitos;0;false;null
+31;2018-05-06 10:00:00;Silva;0;Perelhal;0;false;null
+32;2018-05-13 10:00:00;Cossourado;0;Carapeços;0;false;null
+32;2018-05-13 10:00:00;Negreiros;0;Oliveira;0;false;null
+32;2018-05-13 10:00:00;Carvalhal;0;Palme;0;false;null
+32;2018-05-13 10:00:00;Fragoso;0;Leões da Serra;0;false;null
+32;2018-05-13 10:00:00;Leocadenses;0;Remelhe;0;false;null
+32;2018-05-13 10:00:00;Pereira;0;Macieira;0;false;null
+32;2018-05-13 10:00:00;Feitos;0;Baluganense;0;false;null
+32;2018-05-13 10:00:00;Perelhal;0;Perelhal;0;false;null
+32;2018-05-13 10:00:00;Silva;0;GDR CAMPO;0;false;null
+33;2018-05-20 10:00:00;Cossourado;0;GDR CAMPO;0;false;null
+33;2018-05-20 10:00:00;Carapeços;0;Negreiros;0;false;null
+33;2018-05-20 10:00:00;Oliveira;0;Carvalhal;0;false;null
+33;2018-05-20 10:00:00;Palme;0;Fragoso;0;false;null
+33;2018-05-20 10:00:00;Leões da Serra;0;Leocadenses;0;false;null
+33;2018-05-20 10:00:00;Remelhe;0;Pereira;0;false;null
+33;2018-05-20 10:00:00;Macieira;0;Feitos;0;false;null
+33;2018-05-20 10:00:00;Baluganense;0;Perelhal;0;false;null
+33;2018-05-20 10:00:00;Pedra Furada;0;Silva;0;false;null
+34;2018-05-27 10:00:00;Negreiros;0;Cossourado;0;false;null
+34;2018-05-27 10:00:00;Carvalhal;0;Carapeços;0;false;null
+34;2018-05-27 10:00:00;Fragoso;0;Oliveira;0;false;null
+34;2018-05-27 10:00:00;Leocadenses;0;Palme;0;false;null
+34;2018-05-27 10:00:00;Pereira;0;Leões da Serra;0;false;null
+34;2018-05-27 10:00:00;Feitos;0;Remelhe;0;false;null
+34;2018-05-27 10:00:00;Perelhal;0;Macieira;0;false;null
+34;2018-05-27 10:00:00;Silva;0;Baluganense;0;false;null
+34;2018-05-27 10:00:00;GDR CAMPO;0;Pedra Furada;0;false;null
